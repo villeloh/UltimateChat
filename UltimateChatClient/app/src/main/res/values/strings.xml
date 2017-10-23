@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">UltimateChatClient</string>
+    <string name="sendString">Send</string>
+    <string name="action_register">Register user</string>
+    <string name="action_rename">Rename user</string>
+    <string name="action_logoff">Log off</string>
+    <string name="action_help">Help</string>
+    <string name="action_quit">Quit</string>
+    <string name="drawer_open">Open</string>
+    <string name="drawer_closed">Closed</string>
+    <string name="RegisterHint">Enter new username</string>
+    <string name="OK">OK</string>
+    <string name="channelText">Channel:</string>
+    <string name="textOff">Global View</string>
+    <string name="textOn">Channel View</string>
+    <string name="deleteText">Delete Channel</string>
+    <string name="createText">Create Channel</string>
+    <string name="makeChanHint">Name the channel</string>
+    <string name="globalUsers">Global list of users:</string>
+</resources>

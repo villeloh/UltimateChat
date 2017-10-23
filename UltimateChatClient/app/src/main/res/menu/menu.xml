@@ -1,0 +1,24 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item android:id="@+id/action_register"
+        android:title="@string/action_register"
+        app:showAsAction="never"/>
+
+    <item android:id="@+id/action_rename"
+        android:title="@string/action_rename"
+        app:showAsAction="never"/>
+
+    <item android:id="@+id/action_logoff"
+        android:title="@string/action_logoff"
+        app:showAsAction="never"/>
+
+    <item android:id="@+id/action_help"
+        android:title="@string/action_help"
+        app:showAsAction="never"/>
+
+    <item android:id="@+id/action_quit"
+        android:title="@string/action_quit"
+        app:showAsAction="never"/>
+
+</menu>

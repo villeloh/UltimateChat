@@ -1,0 +1,19 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+        <item name="android:popupMenuStyle">@style/MenuStyle</item>
+        <item name="android:actionBarWidgetTheme">@style/MenuStyle</item>
+    </style>
+
+    <!-- Doesn't work... meh. this seems to be one of the hardest things to do in AS. -->
+    <!-- Defines a custom background color for the upper-right hand corner menu -->
+    <style name="MenuStyle" parent="android:Widget.Holo.Light.ListPopupWindow">
+        <item name="android:popupBackground">@drawable/menu_dropdown_panel</item>
+    </style>
+
+</resources>

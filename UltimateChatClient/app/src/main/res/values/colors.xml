@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- Base color scheme from here: https://color.adobe.com/fi/CS04-color-theme-1994456/edit/?copy=true -->
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <!-- Chat bubble colors -->
+    <color name="colorCDarkBlue">#333745</color>
+    <color name="colorCLightBlue">#77C4D3</color>
+    <color name="colorCLightBlue2">#7DCEDE</color>
+    <color name="colorCLightBlue3">#6DB4C2</color>
+    <color name="colorCRed">#EA2E49</color>
+    <color name="colorCRed2">#D12941</color>
+    <color name="colorCRed3">#BA283A</color>
+    <color name="colorCYellow">#F6F792</color>
+    <color name="colorCYellow2">#F6F77D</color>
+    <color name="colorCYellow3">#E8D66C</color>
+    <color name="colorCPaleGreen">#DAEDE2</color>
+    <color name="colorCPaleGreen2">#C3D4CA</color>
+    <color name="colorCPaleGreen3">#E8FCF1</color>
+    <color name="colorCUser">#EADCD8</color> // warm white
+    <color name="colorCAdmin">#EB4CA7</color> // neon-red
+
+    <color name="colorCIceBlue">#4BE6ED</color> // border-color for the channel-drawer's usergrid
+
+    <color name="colorCInputField">#ffffff</color> // white
+
+</resources>
